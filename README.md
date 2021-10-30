@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi everyone !!🤙
 
-<!--
-**Voltairxx/Voltairxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm an amateur developer
+### I try to develop on different languages :
+### I'm French 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+![baniere](https://user-images.githubusercontent.com/92871565/139533536-b117eb69-3b8e-431a-83c0-6807b5c3f59c.png)
