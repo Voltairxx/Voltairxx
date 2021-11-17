@@ -13,4 +13,4 @@
 # My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Voltair&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voltairxx&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=nord")](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voltairxx&theme=merko&hide_border)](https://github.com/anuraghazra/github-readme-stats)
