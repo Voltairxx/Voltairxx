@@ -1,19 +1,32 @@
-# Hi everyone !!🤙
+<p align="center">
+  -----------------------------------------------------
+  <br>
+  <b> Hi everyone !!🤙 </b>  <br>
+  <b> I'm an amateur developer </b> <br>
+  <b> I'm French <img src="https://user-images.githubusercontent.com/92871565/139536117-b9f25260-5d72-40cb-9f29-34af9d463588.jpg"> </b> <br>
+  -----------------------------------------------------
+  <br>
+</p>
 
-### I'm an amateur developer
-### I'm French ![images](https://user-images.githubusercontent.com/92871565/139536117-b9f25260-5d72-40cb-9f29-34af9d463588.jpg)
+<p align="center">
+	<b> I try to develop on different languages ! </b>
+	<br> <br>
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>&nbsp;
+ </p>  
 
-
-# I try to develop on different languages :
-![baniere](https://user-images.githubusercontent.com/92871565/139534786-edce2f54-672b-48c7-99b1-54634db60f1a.png)
-
-# I use a lot of coding software :
-![baniere2](https://user-images.githubusercontent.com/92871565/139537426-f31d8ba2-0e0e-4b74-a6f4-a778126f5ef7.png)
-
-# My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Voltairxx&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voltairxx&theme=dark)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voltairxx&theme=dark&layout=compact)
-
+<p align="center">
+  <b> My stats </b>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Voltairxx&theme=dark&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=Voltairxx&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voltairxx&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+</p>   
 
