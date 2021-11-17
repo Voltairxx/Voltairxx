@@ -9,3 +9,6 @@
 
 # I use a lot of coding software :
 ![baniere2](https://user-images.githubusercontent.com/92871565/139537426-f31d8ba2-0e0e-4b74-a6f4-a778126f5ef7.png)
+
+# My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Voltair&theme=neon-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
